@@ -49,7 +49,7 @@
             &:hover {
                 &::before {
                     border-top: 10px solid transparent;
-                    border-left: 10px solid #ffc000;
+                    border-left: 10px solid #FC0841;
                     border-bottom: 10px solid transparent;
                     top: 10px;
                 }
@@ -57,7 +57,7 @@
         }
         &::before {
             border-top: 10px solid transparent;
-            border-left: 10px solid #ffc000;
+            border-left: 10px solid #FC0841;
             border-bottom: 10px solid transparent;
             top: 10px;
         }
@@ -477,13 +477,13 @@
         .others-option {
             .search-wrap {
                 a {
-                    color: #ffc000;
+                    color: #FC0841;
                     position: relative;
                     &::before {
                         display: none;
                     }
                     &:hover {
-                        color: #ffc000;
+                        color: #FC0841;
                     }
                 }
             }
@@ -1148,7 +1148,7 @@
                     }
                     i {
                         font-size: 20px;
-                        color: #ffc000;
+                        color: #FC0841;
                         width: 35px;
                         height: 35px;
                         line-height: 35px;
@@ -1186,7 +1186,7 @@
             &:hover {
                 &::before {
                     border-top: 10px solid transparent;
-                    border-left: 10px solid #ffc000;
+                    border-left: 10px solid #FC0841;
                     border-bottom: 10px solid transparent;
                     top: 10px;
                 }
@@ -1194,7 +1194,7 @@
         }
         &::before {
             border-top: 10px solid transparent;
-            border-left: 10px solid #ffc000;
+            border-left: 10px solid #FC0841;
             border-bottom: 10px solid transparent;
             top: 10px;
         }
@@ -1483,7 +1483,7 @@
         position: relative;
         &::before {
             width: 150px;
-            background-color: #ffc000;
+            background-color: #FC0841;
             clip-path: polygon(0 0, 2% 1%, 100% 100%, 0% 100%);
         }
         &::after {
@@ -1493,7 +1493,7 @@
             right: 0;
             width: 150px;
             height: 100%;
-            background-color: #ffc000;
+            background-color: #FC0841;
             clip-path: polygon(100% 0%, 100% 0, 100% 100%, 0 100%);
         }
     }
@@ -1694,13 +1694,13 @@
         .others-option {
             .search-wrap {
                 a {
-                    color: #ffc000;
+                    color: #FC0841;
                     position: relative;
                     &::before {
                         display: none;
                     }
                     &:hover {
-                        color: #ffc000;
+                        color: #FC0841;
                     }
                 }
             }
@@ -2305,9 +2305,9 @@
         a {
             &.meanmenu-reveal {
                 padding: 18px 15px 0 0;
-                color: #ffc000;
+                color: #FC0841;
                 span {
-                    background-color: #ffc000;
+                    background-color: #FC0841;
                     position: relative;
                     top: 8px;
                     margin-top: -5px;
@@ -2333,10 +2333,10 @@
                     li {
                         a {
                             &:hover {
-                                color: #ffc000;
+                                color: #FC0841;
                             }
                             &.active {
-                                color: #ffc000;
+                                color: #FC0841;
                             }
                         }
                     }
